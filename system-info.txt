@@ -1,0 +1,9 @@
+
+System Information:
+-------------------
+OS Type       : Windows_NT
+Total Memory  : 15.89 GB
+Free Memory   : 8.43 GB
+CPU Details   : Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz, Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz, Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz, Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
+CPU Count     : 4
+    
